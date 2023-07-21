@@ -1,16 +1,6 @@
 {
   "description": "details of customer",
   "icon": "map",
-  "kill_chain_order": {
-    "fraud-tactics": [
-      "Initiation",
-      "Target Compromise",
-      "Perform Fraud",
-      "Obtain Fraudulent Assets",
-      "Assets Transfer",
-      "Monetisation"
-    ]
-  },
   "name": "customer",
   "namespace": "misp",
   "type": "Essential",
