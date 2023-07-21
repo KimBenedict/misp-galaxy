@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "title": "Validator for misp-galaxies - Galaxies",
+  "id": "https://www.github.com/MISP/misp-galaxies/schema_galaxies.json",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "description": {
+      "type": "details of description"
+    },
+    "type": {
+      "type": "Scam"
+    },
+    "version": {
+      "type": "1"
+    },
+    "name": {
+      "type": "customer"
+    },
+    "icon": {
+      "type": "map"
+    },
+    "uuid": {
+      "type": "g12345-222-333"
+    },
+    "namespace": {
+      "type": "mispko"
+    },
+    "kill_chain_order": {
+      "type": "chain order"
+    }
+  },
+  "required": [
+    "description",
+    "type",
+    "version",
+    "name",
+    "uuid"
+  ]
+}
+
+
+
+{
+  "description": "details of customer",
+  "icon": "map",
+  "kill_chain_order": {
+    "fraud-tactics": [
+      "Initiation",
+      "Target Compromise",
+      "Perform Fraud",
+      "Obtain Fraudulent Assets",
+      "Assets Transfer",
+      "Monetisation"
+    ]
+  },
+  "name": "customer",
+  "namespace": "misp",
+  "type": "Essential",
+  "uuid": "122131-233423-2312-32423",
+  "version": 1
+}
