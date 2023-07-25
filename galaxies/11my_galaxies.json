@@ -1,9 +1,10 @@
 {
-  "description": "details of customer",
+  "description": "CLPID",
   "icon": "map",
-  "name": "customer",
+  "name": "Company AC",
   "namespace": "misp",
-  "type": "Essential",
-  "uuid": "122131-233423-2312-3242",
+  "type": "S1C",
+  "uuid": "",
+  "mak": "testing",
   "version": 1
 }
