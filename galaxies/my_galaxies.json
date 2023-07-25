@@ -1,0 +1,10 @@
+{
+  "description": "CLPID",
+  "icon": "map",
+  "name": "Company AC",
+  "namespace": "misp",
+  "type": "S1C",
+  "uuid": "",
+  "mak": "testing",
+  "version": 1
+}
