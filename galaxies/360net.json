@@ -1,7 +1,7 @@
 {
   "description": "details of customer",
   "icon": "map",
-  "name": "Rule",
+  "name": "customer",
   "namespace": "misp",
   "type": "Essential",
   "uuid": "122131-233423-2312-32423",
