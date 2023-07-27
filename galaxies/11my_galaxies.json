@@ -1,9 +1,9 @@
 {
-  "description": "CLPID",
+  "description": "Rule details",
   "icon": "map",
-  "name": "Company AC",
+  "name": "Rule",
   "namespace": "misp",
-  "type": "S1C",
+  "type": "Complete",
   "uuid": "",
   "mak": "testing",
   "version": 1
