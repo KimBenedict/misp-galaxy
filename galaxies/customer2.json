@@ -1,0 +1,9 @@
+{
+  "description": "details of customer",
+  "icon": "map",
+  "name": "Customer AAG",
+  "namespace": "misp",
+  "type": "Complete",
+  "uuid": "222131-233423-2312-32423",
+  "version": 1
+}
