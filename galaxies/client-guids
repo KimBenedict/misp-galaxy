@@ -1,0 +1,9 @@
+{
+  "description": "client guid",
+  "icon": "map",
+  "name": "Client GUIDs",
+  "namespace": "misp",
+  "type": "galaxy",
+  "uuid": "3",
+  "version": 1
+}
