@@ -3,6 +3,8 @@
   "icon": "map",
   "name": "Server Guid 1",
   "namespace": "misp",
+  "type": "Complete",
   "uuid": "123451-233423-2312-32423",
+  "mak": "testing",
   "version": 1
 }
