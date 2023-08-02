@@ -1,0 +1,9 @@
+{
+  "description": "s1c companies",
+  "icon": "map",
+  "name": "S1C",
+  "namespace": "misp",
+  "type": "galaxy",
+  "uuid": "1",
+  "version": 1
+}
