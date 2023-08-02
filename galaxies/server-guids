@@ -1,0 +1,9 @@
+{
+  "description": "server guid",
+  "icon": "map",
+  "name": "Server GUIDs",
+  "namespace": "misp",
+  "type": "galaxy",
+  "uuid": "2",
+  "version": 1
+}
